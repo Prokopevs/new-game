@@ -1,7 +1,7 @@
 {
   "name": "new-game",
   "private": true,
-  "homepage": "https://prokopevs.github.io/new-game",
+  "homepage": "https://prokopevs.github.io/new-game/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
